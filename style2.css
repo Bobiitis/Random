@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(165, 219, 79);
+    }
+    h1 {
+    color: rgb(0, 0, 0);
+    margin-left: 20px;
+    text-align: center;
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+      }

@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(143, 204, 44);
+    font-family: "Jaro", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: medium;
+        text-align: center;
+    }
+
+    h1 {
+        color: rgb(0, 0, 0);
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: center;
+        }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 15%;
+      }
